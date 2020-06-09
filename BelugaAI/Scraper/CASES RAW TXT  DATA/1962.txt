@@ -1,0 +1,613 @@
+[
+THE MASTER OF THE ROLLS: Mr Anthony George Stimson saw an Austin motor car on the premises of the Stanmore Motor Co advertised for sale at £350. On 16th March 1961, he signed a hire purchase agreement form which was produced by the Stanmore Motor Co. It was in law not an agreement, but only an offer by Mr Stimson to enter into a hire purchase agreement with a company called Financings Ltd, Finance Company. I need not go into all the details except to say at once that there was a Clause in it which made it clear that "this agreement shall become binding on the owner", that is on the Finance Company, "only upon acceptance by signature on behalf of the owner and the hiring shall be deemed to commence on such date of acceptance".  Now, to go at once almost to the end of the story, the Finance Company did not sign the acceptance until the data which they put upon it, on the 25th March, 1961. The interval of time between the signing of the offer on the 19th March and the purported acceptance on the 25th March is most important because much happened in between.
+
+Mr Stimson was not allowed to take the car away on 16th March even though he had signed the form. The reason was because he had not then got the required insurance cover for it. He produced the ordinary third-party insurance cover. This was not satisfactory because comprehensive cover was required. But on Saturday, 18th March Mr Stimson did produce a comprehensive cover note. He produced it to the Stanmore Motor Company. They telephoned Finance Company and got their assent. He paid the first instalment of £70 on the car and he was allowed to take the car away. No doubt both Mr Stimson and Finance Company thought at that time that an agreement had been concluded, but in fact it had not. Certainly a hire purchase agreement had not been concluded because, as I have said, on its wording it depended on a signature which did not take place until a week later. At all events, Mr Stimson took the car away. He had it on the Saturday and drove it on the Sunday. He was not satisfied at all with its condition and performance. In the result, on Monday, 20th March he was so dissatisfied with it that he returned it to the Stanmore Motor Company. He saw the manager and proprietor, Mr Cozens-Walker, and explained that he did not want the car after all, and, in order to settle the matter, he offered to forfeit the £70 he had paid. It is not altogether clear what Mr Cozens-Walker said to him, but it seems that he told him that the Stanmore Motor Company would get in touch with Finance Company and let him know the outcome. Also it was suggested that Mr Stimson should get in touch with Finance Company himself. However, by some oversight, the Stanmore Motor Company did not get in touch with Finance Company; nor did Mr Stimson. Nevertheless, Mr Stimson thought that, having returned the car, he had no longer any responsibility for it. Accordingly, on Thursday, 23rd March he cancelled the insurance cover note. 
+
+Then the critical event happened. On the night of 24th/25th March the Stanmore Motor Company's premises were broken into and the car was stolen. In the course of the theft the car was badly scratched and damaged. When it was recovered, it was obviously not worth the same money as it was before. The car having been recovered, Finance Company were told about it. They had the car back and sold it by auction and got some £240 for it. Now they claim in this action damages from Mr Stimson. They say he defaulted under the hire purchase agreement which he signed. Alternatively, by an amendment they seek to claim damages against him as a bailee on the terms of that hire purchase agreement.
+
+Such is the outline of the facts. I need not at the moment go into the question of the condition and roadworthiness of the car, because it seems to me that the crucial matter in the case is whether there was ever a binding agreement between Mr Stimson and Finance Company. The document which Mr Stimson signed on 16th March was only an offer. Before it was accepted, he returned the car to the dealer and made it clear that he did not want the car any more. Was that a revocation of the offer? To my mind, that was a clear revocation provided that it was made to a person having authority to receive it. But was the dealer a person authorised to receive the revocation? Was he the agent of Finance Company for the purpose?
+
+It was urged before the County Court Judge, on the authority of Campbell Discount Company Limited v Gall (1961, 1 Q.B. 431) in this court, that the dealer is not the agent of Finance Company; and the County Court Judge, to his regret, felt that he was bound to hold that there was insufficient evidence to show that the dealer was the agent of Finance Company for the purpose of receiving back the motor car. I take a different view. I look on Campbell Discount Company Limited v Gall as being a very special case on its own facts. It seems to me that, in this transaction before us, as indeed in most of these hire purchase transactions, the dealer is for many purposes the agent of the Finance Company. Mr Iwi in his argument pointed out a number of matters in which it cannot be denied that the dealer is the agent of the Finance Company. The dealer holds the necessary forms; he hands them over to the hirer to sign; he forwards them to the Finance Company; he receives the deposit as agent for the Finance Company: he receives from the Finance Company information that they are willing to accept the transaction; and he is authorised to pass on that communication to the hirer. He was in this very case the agent on behalf of the Finance Company to see that the insurance cover was all in proper order. He rejected the first cover which was offered and accepted the comprehensive cover which he said was satisfactory. Most important of all, he was the agent of the Finance Company to hand over the motor car to the hirer. It seems to me that, if we take, as we should, a realistic view of the position, the dealer is in many respects and for many purposes the agent of the Finance Company. I am aware, of course, that the Finance Companies often put clauses into their forms in which they say that the dealer is not their agent. But these clauses are often not worth the paper they are written on. Nobody can make an assertion of that kind in an agreement so as to bind the courts if it is contrary to the facts of the case. We all know that people often try to put clauses in a tenancy agreement so as to say that it is a licence and not a tenancy. But the courts take no notice of it if it is contrary to the truth. So, also, if they put into one of these agreements a clause that the dealer is not their agent, it does not bind the courts if he is in fact their agent. In this case we are not troubled by any such clause, for there is none. And, on the facts, I am clearly of opinion that the dealer was ostensibly authorised to receive communications on behalf of Finance Company. Just as he was authorised to deliver the car to Mr Stimson in the first place, so he was ostensibly authorised to receive it back when it was returned. Just as he was authorised to receive the offer for Finance Company, so, also, he was ostensibly authorised to receive the revocation: and to receive the communication that the hirer had no further use for it.
+
+I am aware that the hirer  did not in terms revoke the offer, for the simple reason that he thought the agreement was concluded. But he made it clear that he did not wish to proceed with the matter and that is all that was necessary. In my judgment, therefore, the offer was revoked on 20th March and there was, for this reason, no concluded contract. Even if I am wrong on that point, there is the second point to be considered which appealed to the County Court Judge. He said: When this offer was made, it was made on the basis that the car was in good condition, or at all events in the condition in which Mr Stimson had seen it, but, before the offer was accepted (it was accepted on March 25th), on the night of Mar. 24th/25th it suffered this extra damage which cost £44 to repair, having been scratched and dented by the thieves who stole it. Can a man accept an offer when the condition of the goods has deteriorated in a material respect since the date of the offer?
+
+It seems to me that, on the facts of this case, the offer made by Mr Stimson was a conditional offer. It was conditional on the car remaining in substantially the same condition until the moment of acceptance. Take the case put by Donovan, LJ, in the course of the argument: Suppose an offer is made to buy a Rolls-Royce car at a high price on one day and, before it is accepted, it suffers the next day severe damage. Can it be accepted and the offeror bound? My answer to that is: No, because the offer is conditional on the goods at the moment of acceptance remaining in substantially the same condition as at the time of the offer. 
+
+Mr Rawley argued that there was an express clause here saying that the goods were to be "at the risk of the hirer from the time of purchase by the owner". The time of purchase by the owner, he said, was 18th March when Finance Company told the dealer orally that they accepted the transaction. Thenceforward, he said, the goods were at the risk of Mr Stimson. This shows, says counsel, that the condition which I have suggested is inconsistent with the express terms, or, at all events, is not to be implied. In my judgment, however, this clause on which counsel relies only comes into operation when a contract is concluded and accepted. Meanwhile the offer is made on the understanding that, so long as it remains an offer, it is conditional on the goods being in substantially the same condition as at the time when the offer was made. 
+
+I agree, therefore, with the County Court Judge in thinking that, in view of the damage which occurred to this car before the acceptance was given, Finance Company were not in a position to accept the offer, because the condition on which it was made had not been fulfilled. So on that ground also there was no contract.
+
+In these circumstances, there is no need for me to go into the other points which were raised in the course of the argument as to the roadworthiness of the car or into the question of damages. But as to the amendment which was put in by Mr Rawley in this court suggesting that this was a bailment on the terms of the hire purchase agreement, I would only say that if the hire purchase agreement was never concluded, I cannot think that there was a bailment on the terms of it.
+
+I would, therefore, dismiss this appeal.
+
+
+LORD JUSTICE DONOVAN: The dealer in this case was clearly Finance Company's agent to do a variety of things: to receive an offer of hire purchase; to tell the proposed hire purchaser, Mr Stimson, that Finance Company would accept the business; to ensure that comprehensive insurance was effected by Mr Stimson; and thereafter to deliver the car to him. In the written hire purchase form of agreement there was no clause negativing agency between Finance Company and the dealer. In these circumstances, authority to receive a notice of revocation of the hire purchase offer was, in my opinion, within the dealer's authority as ostensible agent for Finance Company, and on this point I entirely agree with what has been said by the Master of the Rolls.
+
+Then was a notice of revocation given before the offer was accepted? That acceptance must be taken to have taken place not earlier than 25th March 1961. Before then, namely, on 20th March Mr Stimson had taken the car back to the dealer, told him he did not want to go on with the transaction and offered to forfeit his deposit. The dealer said words to the effect that he would get in touch with Finance Company to see what could be arranged, and told Mr Stimson that he himself should also communicate with Finance Company, which Mr Stimson did not do. Clearly both parties were under the impression that what was in view was the rescission of an existing concluded contract, whereas at this moment there was no contract at all. But it is conceded, and I think rightly so, that, if an offeror makes it clear that he does not want to go on with the transaction, it is properly treated as a revocation of his offer, notwithstanding that the words used would be more appropriate to a case of rescission. Thus one reaches the stage that an offer here has been revoked before acceptance and the revocation communicated to the ostensible agent of the offeree. There is thus an end of the matter in favour of the respondent to this appeal.
+
+But if this view be wrong, I would agree that the offer here was on the basis that the car remained substantially in the same condition until acceptance, and that this did not happen. I do not regard Clause 2 of the terms of the printed hire purchase agreement ("The hirer's acceptance of delivery of the goods shall be conclusive that he has examined the goods and found them to be complete and in good order and condition and in every way satisfactory to him  ") as incorporated in the offer. Who would offer to purchase a car on terms that if it were severely damaged before the offer was accepted, he, the offeror, would pay the bill? The suggestion seems to me to be quite unreal. I think that the offer is conditioned, in a case where the documents are in the form which they take here, by the clause which the offeror signs to the effect that he has examined the goods and satisfied himself that they are in good order and condition. What is the point of this provision if, before acceptance, the goods are heavily damaged but, nevertheless, the offeror can still be compelled to buy them. The County Court Judge held that there must, therefore, be implied a term that, until acceptance, the goods would remain in substantially the same state as at the date of the offer; and I think that this is both good sense and good law.
+
+On either of the foregoing grounds, therefore, I think that the appeal fails, though, if I may say so, it could not have been better argued than it was by Mr Rawley.
+
+With regard to the alternative argument which we permitted on receiving Finance Company' amendment to his pleading, to the effect that there was a separate oral contract on 18th March when the car was delivered in advance of the expected hire purchase agreement, such oral contract embodying practically all the terms of the proposed hire purchase agreement, I agree with the contention of Mr Stimson that, on the facts, this argument cannot be sustained. I think that all that happened was that Mr Stimson was allowed to possess the car in advance of the contract. He thereby became a bailee, but the bailment ceased on 20th March when the car was returned to the dealer whom, as I say, I regard as having ostensible authority to receive it back.
+
+
+LORD JUSTICE PEARSON: This hire purchase transaction, as unhappily so often happens with hire purchase transactions, creates complicated, artificial and obscure legal relationships between the parties. I am not able, on the point of ostensible authority, to see the position in quite the same way as my brethren have seen it. It is very difficult, in my view, to assess exactly how much authority the dealer has to act, on the one side on behalf of the proposed hire purchaser, and on the other side on behalf of the Finance Company. There is a complicated relationship, because the dealer has himself his own interest in the transaction and he is a party to the three-cornered arrangements. He is going to sell the car to the Finance Company, whereupon the Finance Company will let it out on hire to the hire purchaser. Therefore, it is often very difficult to make sure to what extent the dealer is acting in any one of his three capacities, first, on his own behalf as the proposed seller, secondly, sometimes in some respects as agent for the hire purchaser, and, thirdly, sometimes in some respects as agent for the Finance Company.
+
+Now in this case it was, or must be taken to have been, made clear to Mr Stimson that the dealer was not authorised to conclude the hire purchase agreement. The form of the hire purchase agreement was produced to him, and it was plainly set out in Condition No.13 of the proposed hire purchase agreement:
+
+"This agreement shall become binding on the owner only upon acceptance by signature on behalf of the owner and the hiring shall be deemed to commence on such date of acceptance."
+
+On 16th March 1961 the proposed hire purchaser, Mr Stimson having had time to study these documents, came back with his own signature on the front page. He thereby made his offer, and he handed it to the dealer on that day for transmission to Finance Company. It was transmitted, and Finance Company seem to have received it probably on the 17th or, at any rate, not later than 20th March; almost certainly it must have been about the 17th. Then, after a telephone conversation had taken place between the dealer and Finance Company, the dealer, obviously with the authority of Finance Company, informed the proposed hire purchaser that the proposition was acceptable to Finance Company, and possession of the car was given by the dealer to the hire purchaser. At that moment the transaction was not concluded: the agreement had not yet been signed by Finance Company as owners, and, therefore, there was no hire purchase agreement in existence. But some contract has to be inferred from the conduct of the parties. On the one hand the proposed hire purchaser signed and handed in his offer. He had also, at the request of the dealer and for the benefit of Finance Company, produced a comprehensive insurance cover to show that the car was going to be properly covered. But at that moment there was only a preliminary bailment. There was delivery of the car to the hire purchaser, but no hire purchase agreement had come into force. The expectation was that, in a few days' time, there would be a signature on behalf of Finance Company as owners, which would be an acceptance of the offer and conclude the contract and there would be a hire purchase agreement. But if, for some reason, Finance Company decided they would not go on with the transaction, then the understanding must have been that, in such event, the motor car would have to be handed back by the proposed hire purchaser. That is the position on 18th March and I agree that one cannot read into the terms of that provisional bailment all the terms of the hire purchase agreement. That would not be consistent with the evident intention of the parties, which was merely to create a provisional situation in anticipation of the hire purchase agreement being concluded.
+
+It may well be that the dealer had authority and appeared to have authority from Finance Company to do various things, in particular to hand over the car and to scrutinise the proposed insurance cover to make sure it was a satisfactory comprehensive cover, and it may be there was authority in other respects as well. But I do not see that it follows from any of the facts of this case that the dealer had authority to receive notice of revocation in the relevant sense, which would not be merely to receive it and transmit it to Finance Company on the basis that the dealer would be the authorised and proper channel of communication. The authority would have to go further in the present case. It has to be said that, at the moment when the hire purchaser gave notice to the dealer of his desire to revoke his offer, that was automatically at that moment notice to Finance Company. In my view, that is not a reasonable view of the facts. It is reasonable to say that if the hire purchaser wished to withdraw his offer, it would be right for him to inform the dealer and make the dealer his agent for the purpose of passing on the message. The dealer would be the authorised channel of communication, but it does not follow that Finance Company had made the dealer their agent to such an extent that the mere giving of a revocation notice to the dealer would then and there amount to a withdrawal of the offer. It is clear that the dealer was not authorised to conclude the transaction, and, therefore, one may ask: why should he be authorised on his own initiative or by his mere receipt of some notice to undo the transaction? He clearly was not authorised to rescind an agreement if an agreement had been completed, and it does not seem to me to follow from any of the facts that he was acting in such a capacity that information given to him was at once information given to Finance Company.
+
+That view of the matter is also borne out by the evidence as to what happened on Monday, 20th March when the intending hire purchaser came to the dealer and said in effect: 
+
+"Here is the car; I have brought it back; I do not want to go on with the transaction". 
+
+What was then said by Mr Cozens-Walker on behalf of the dealer was:
+
+"Very well; I will get in touch with one of the directors of the Finance Company whom I know and will see what can be done and I will let you know the outcome" 
+
+and, according to the evidence of Mr Cozens-Walker, which seems to have been accepted by the learned Judge, he also added: 
+
+"But you, Mr Stimson, must also see if you can get in touch with the Finance Company and make the necessary arrangements yourself". 
+
+The explanation of that as a matter of history is that probably both of those parties, namely, the dealer and the proposed hire purchaser, thought that there was a concluded contract and that what had to be done was to bring about a rescission of it by agreement, because the proposed hire purchaser also added that he was willing to forfeit his deposit of £70 which he had already paid in order to secure a rescission of the proposed transaction so far as it had gone. That is consistent with assuming that there was a concluded agreement which had to be rescinded on terms rather than an offer which had to be withdrawn. I do not see how one can spell out from that conversation a receipt by the dealer of notice of revocation of the offer. It was not what they were purporting to do, and, to my mind, there is no sufficient evidence of actual or ostensible authority on the part of the dealer to receive any communication as immediately constituting notice to Finance Company. Such authority was not possessed in fact; it was not an apparent or ostensible authority; and Mr Cozens-Walker did not profess to have it. So on the first point I am unfortunately not able to agree that there was ostensible authority, nor, as I think is the more accurate way of putting it, that the mere holding of that conversation between Mr Stimson, the proposed hire purchaser, and Mr Cozens-Walker on behalf of the dealer, constituted the giving of notice to Finance Company of revocation of the offer.
+
+However, on the second point, I do agree that the offer was conditional. It is not necessary for the purpose of this case to lay down any broad general propositions about what happens when there is a change in the condition of the goods between the date of offer and the date of acceptance, because we have important special features in this case. This was a hire purchase transaction, and the offer which was signed by the proposed hire purchaser, Mr Stimson on 16th March contained this provision:
+
+"In signing this agreement the hirer acknowledges that before he signed it - (c) he had examined the goods and satisfied himself that they were in good order and condition."
+
+That is something which has to be signed by the offeror. What is the meaning of it and what have you to infer in order to give reasonable business efficacy to this transaction? The obvious intention is this, that both the proposed hire purchaser and the Finance Company will be able to rely on the condition of the car as it appears to the proposed hire purchaser when he made his offer, and it is on the basis of the car being in that condition that various figures, which one finds on the same page, must have been assessed. The cash price of the goods was £350. That is right as long as the car remains in the same condition, but if in the meantime it suffers injury so that it is depreciated by £100, that figure will be wrong and it should be altered to £250. Equally, the initial instalment of £70 having been paid, it appears to leave £280 to be found, but that figure also would be wrong; if £100 damage had occurred in the meantime, it should be reduced to £180. The amount and number of the monthly instalments would also become wrong. Furthermore (and this is important), in the event of the hire purchaser making default in payment of the instalments, he would, under the terms of the hire purchase agreement, become liable to pay a certain figure. That figure would by that time have become much too high if £100 of damage had been incurred. 
+
+The learned Judge found in terms that this car suffered severe damage before the acceptance, and that there was substantial depreciation as the result. On that basis, it seems to me that we should by implication read into this offer, in order to give the transaction that business efficacy which the parties must have intended it to have, an implied condition that this offer is capable of acceptance only if the car remains in substantially the same condition with substantially the same value. That condition in this case was not fulfilled, because the car was severely damaged and its value was substantially depreciated. Therefore, when Finance Company purported to accept it on a date, which we must assume was 25th March it was an offer which was no longer capable of acceptance, and, therefore, no agreement was concluded.
+
+On that ground, I agree that the appeal should be dismissed.
+
+Order: Appeal dismissed with no order as to the costs of the appeal.
+
+
+]
+[
+THE MASTER OF THE ROLLS: Mr Anthony George Stimson saw an Austin motor car on the premises of the Stanmore Motor Co advertised for sale at £350. On 16th March 1961, he signed a hire purchase agreement form which was produced by the Stanmore Motor Co. It was in law not an agreement, but only an offer by Mr Stimson to enter into a hire purchase agreement with a company called Financings Ltd, Finance Company. I need not go into all the details except to say at once that there was a Clause in it which made it clear that "this agreement shall become binding on the owner", that is on the Finance Company, "only upon acceptance by signature on behalf of the owner and the hiring shall be deemed to commence on such date of acceptance".  Now, to go at once almost to the end of the story, the Finance Company did not sign the acceptance until the data which they put upon it, on the 25th March, 1961. The interval of time between the signing of the offer on the 19th March and the purported acceptance on the 25th March is most important because much happened in between.
+
+Mr Stimson was not allowed to take the car away on 16th March even though he had signed the form. The reason was because he had not then got the required insurance cover for it. He produced the ordinary third-party insurance cover. This was not satisfactory because comprehensive cover was required. But on Saturday, 18th March Mr Stimson did produce a comprehensive cover note. He produced it to the Stanmore Motor Company. They telephoned Finance Company and got their assent. He paid the first instalment of £70 on the car and he was allowed to take the car away. No doubt both Mr Stimson and Finance Company thought at that time that an agreement had been concluded, but in fact it had not. Certainly a hire purchase agreement had not been concluded because, as I have said, on its wording it depended on a signature which did not take place until a week later. At all events, Mr Stimson took the car away. He had it on the Saturday and drove it on the Sunday. He was not satisfied at all with its condition and performance. In the result, on Monday, 20th March he was so dissatisfied with it that he returned it to the Stanmore Motor Company. He saw the manager and proprietor, Mr Cozens-Walker, and explained that he did not want the car after all, and, in order to settle the matter, he offered to forfeit the £70 he had paid. It is not altogether clear what Mr Cozens-Walker said to him, but it seems that he told him that the Stanmore Motor Company would get in touch with Finance Company and let him know the outcome. Also it was suggested that Mr Stimson should get in touch with Finance Company himself. However, by some oversight, the Stanmore Motor Company did not get in touch with Finance Company; nor did Mr Stimson. Nevertheless, Mr Stimson thought that, having returned the car, he had no longer any responsibility for it. Accordingly, on Thursday, 23rd March he cancelled the insurance cover note. 
+
+Then the critical event happened. On the night of 24th/25th March the Stanmore Motor Company's premises were broken into and the car was stolen. In the course of the theft the car was badly scratched and damaged. When it was recovered, it was obviously not worth the same money as it was before. The car having been recovered, Finance Company were told about it. They had the car back and sold it by auction and got some £240 for it. Now they claim in this action damages from Mr Stimson. They say he defaulted under the hire purchase agreement which he signed. Alternatively, by an amendment they seek to claim damages against him as a bailee on the terms of that hire purchase agreement.
+
+Such is the outline of the facts. I need not at the moment go into the question of the condition and roadworthiness of the car, because it seems to me that the crucial matter in the case is whether there was ever a binding agreement between Mr Stimson and Finance Company. The document which Mr Stimson signed on 16th March was only an offer. Before it was accepted, he returned the car to the dealer and made it clear that he did not want the car any more. Was that a revocation of the offer? To my mind, that was a clear revocation provided that it was made to a person having authority to receive it. But was the dealer a person authorised to receive the revocation? Was he the agent of Finance Company for the purpose?
+
+It was urged before the County Court Judge, on the authority of Campbell Discount Company Limited v Gall (1961, 1 Q.B. 431) in this court, that the dealer is not the agent of Finance Company; and the County Court Judge, to his regret, felt that he was bound to hold that there was insufficient evidence to show that the dealer was the agent of Finance Company for the purpose of receiving back the motor car. I take a different view. I look on Campbell Discount Company Limited v Gall as being a very special case on its own facts. It seems to me that, in this transaction before us, as indeed in most of these hire purchase transactions, the dealer is for many purposes the agent of the Finance Company. Mr Iwi in his argument pointed out a number of matters in which it cannot be denied that the dealer is the agent of the Finance Company. The dealer holds the necessary forms; he hands them over to the hirer to sign; he forwards them to the Finance Company; he receives the deposit as agent for the Finance Company: he receives from the Finance Company information that they are willing to accept the transaction; and he is authorised to pass on that communication to the hirer. He was in this very case the agent on behalf of the Finance Company to see that the insurance cover was all in proper order. He rejected the first cover which was offered and accepted the comprehensive cover which he said was satisfactory. Most important of all, he was the agent of the Finance Company to hand over the motor car to the hirer. It seems to me that, if we take, as we should, a realistic view of the position, the dealer is in many respects and for many purposes the agent of the Finance Company. I am aware, of course, that the Finance Companies often put clauses into their forms in which they say that the dealer is not their agent. But these clauses are often not worth the paper they are written on. Nobody can make an assertion of that kind in an agreement so as to bind the courts if it is contrary to the facts of the case. We all know that people often try to put clauses in a tenancy agreement so as to say that it is a licence and not a tenancy. But the courts take no notice of it if it is contrary to the truth. So, also, if they put into one of these agreements a clause that the dealer is not their agent, it does not bind the courts if he is in fact their agent. In this case we are not troubled by any such clause, for there is none. And, on the facts, I am clearly of opinion that the dealer was ostensibly authorised to receive communications on behalf of Finance Company. Just as he was authorised to deliver the car to Mr Stimson in the first place, so he was ostensibly authorised to receive it back when it was returned. Just as he was authorised to receive the offer for Finance Company, so, also, he was ostensibly authorised to receive the revocation: and to receive the communication that the hirer had no further use for it.
+
+I am aware that the hirer  did not in terms revoke the offer, for the simple reason that he thought the agreement was concluded. But he made it clear that he did not wish to proceed with the matter and that is all that was necessary. In my judgment, therefore, the offer was revoked on 20th March and there was, for this reason, no concluded contract. Even if I am wrong on that point, there is the second point to be considered which appealed to the County Court Judge. He said: When this offer was made, it was made on the basis that the car was in good condition, or at all events in the condition in which Mr Stimson had seen it, but, before the offer was accepted (it was accepted on March 25th), on the night of Mar. 24th/25th it suffered this extra damage which cost £44 to repair, having been scratched and dented by the thieves who stole it. Can a man accept an offer when the condition of the goods has deteriorated in a material respect since the date of the offer?
+
+It seems to me that, on the facts of this case, the offer made by Mr Stimson was a conditional offer. It was conditional on the car remaining in substantially the same condition until the moment of acceptance. Take the case put by Donovan, LJ, in the course of the argument: Suppose an offer is made to buy a Rolls-Royce car at a high price on one day and, before it is accepted, it suffers the next day severe damage. Can it be accepted and the offeror bound? My answer to that is: No, because the offer is conditional on the goods at the moment of acceptance remaining in substantially the same condition as at the time of the offer. 
+
+Mr Rawley argued that there was an express clause here saying that the goods were to be "at the risk of the hirer from the time of purchase by the owner". The time of purchase by the owner, he said, was 18th March when Finance Company told the dealer orally that they accepted the transaction. Thenceforward, he said, the goods were at the risk of Mr Stimson. This shows, says counsel, that the condition which I have suggested is inconsistent with the express terms, or, at all events, is not to be implied. In my judgment, however, this clause on which counsel relies only comes into operation when a contract is concluded and accepted. Meanwhile the offer is made on the understanding that, so long as it remains an offer, it is conditional on the goods being in substantially the same condition as at the time when the offer was made. 
+
+I agree, therefore, with the County Court Judge in thinking that, in view of the damage which occurred to this car before the acceptance was given, Finance Company were not in a position to accept the offer, because the condition on which it was made had not been fulfilled. So on that ground also there was no contract.
+
+In these circumstances, there is no need for me to go into the other points which were raised in the course of the argument as to the roadworthiness of the car or into the question of damages. But as to the amendment which was put in by Mr Rawley in this court suggesting that this was a bailment on the terms of the hire purchase agreement, I would only say that if the hire purchase agreement was never concluded, I cannot think that there was a bailment on the terms of it.
+
+I would, therefore, dismiss this appeal.
+
+
+LORD JUSTICE DONOVAN: The dealer in this case was clearly Finance Company's agent to do a variety of things: to receive an offer of hire purchase; to tell the proposed hire purchaser, Mr Stimson, that Finance Company would accept the business; to ensure that comprehensive insurance was effected by Mr Stimson; and thereafter to deliver the car to him. In the written hire purchase form of agreement there was no clause negativing agency between Finance Company and the dealer. In these circumstances, authority to receive a notice of revocation of the hire purchase offer was, in my opinion, within the dealer's authority as ostensible agent for Finance Company, and on this point I entirely agree with what has been said by the Master of the Rolls.
+
+Then was a notice of revocation given before the offer was accepted? That acceptance must be taken to have taken place not earlier than 25th March 1961. Before then, namely, on 20th March Mr Stimson had taken the car back to the dealer, told him he did not want to go on with the transaction and offered to forfeit his deposit. The dealer said words to the effect that he would get in touch with Finance Company to see what could be arranged, and told Mr Stimson that he himself should also communicate with Finance Company, which Mr Stimson did not do. Clearly both parties were under the impression that what was in view was the rescission of an existing concluded contract, whereas at this moment there was no contract at all. But it is conceded, and I think rightly so, that, if an offeror makes it clear that he does not want to go on with the transaction, it is properly treated as a revocation of his offer, notwithstanding that the words used would be more appropriate to a case of rescission. Thus one reaches the stage that an offer here has been revoked before acceptance and the revocation communicated to the ostensible agent of the offeree. There is thus an end of the matter in favour of the respondent to this appeal.
+
+But if this view be wrong, I would agree that the offer here was on the basis that the car remained substantially in the same condition until acceptance, and that this did not happen. I do not regard Clause 2 of the terms of the printed hire purchase agreement ("The hirer's acceptance of delivery of the goods shall be conclusive that he has examined the goods and found them to be complete and in good order and condition and in every way satisfactory to him  ") as incorporated in the offer. Who would offer to purchase a car on terms that if it were severely damaged before the offer was accepted, he, the offeror, would pay the bill? The suggestion seems to me to be quite unreal. I think that the offer is conditioned, in a case where the documents are in the form which they take here, by the clause which the offeror signs to the effect that he has examined the goods and satisfied himself that they are in good order and condition. What is the point of this provision if, before acceptance, the goods are heavily damaged but, nevertheless, the offeror can still be compelled to buy them. The County Court Judge held that there must, therefore, be implied a term that, until acceptance, the goods would remain in substantially the same state as at the date of the offer; and I think that this is both good sense and good law.
+
+On either of the foregoing grounds, therefore, I think that the appeal fails, though, if I may say so, it could not have been better argued than it was by Mr Rawley.
+
+With regard to the alternative argument which we permitted on receiving Finance Company' amendment to his pleading, to the effect that there was a separate oral contract on 18th March when the car was delivered in advance of the expected hire purchase agreement, such oral contract embodying practically all the terms of the proposed hire purchase agreement, I agree with the contention of Mr Stimson that, on the facts, this argument cannot be sustained. I think that all that happened was that Mr Stimson was allowed to possess the car in advance of the contract. He thereby became a bailee, but the bailment ceased on 20th March when the car was returned to the dealer whom, as I say, I regard as having ostensible authority to receive it back.
+
+
+LORD JUSTICE PEARSON: This hire purchase transaction, as unhappily so often happens with hire purchase transactions, creates complicated, artificial and obscure legal relationships between the parties. I am not able, on the point of ostensible authority, to see the position in quite the same way as my brethren have seen it. It is very difficult, in my view, to assess exactly how much authority the dealer has to act, on the one side on behalf of the proposed hire purchaser, and on the other side on behalf of the Finance Company. There is a complicated relationship, because the dealer has himself his own interest in the transaction and he is a party to the three-cornered arrangements. He is going to sell the car to the Finance Company, whereupon the Finance Company will let it out on hire to the hire purchaser. Therefore, it is often very difficult to make sure to what extent the dealer is acting in any one of his three capacities, first, on his own behalf as the proposed seller, secondly, sometimes in some respects as agent for the hire purchaser, and, thirdly, sometimes in some respects as agent for the Finance Company.
+
+Now in this case it was, or must be taken to have been, made clear to Mr Stimson that the dealer was not authorised to conclude the hire purchase agreement. The form of the hire purchase agreement was produced to him, and it was plainly set out in Condition No.13 of the proposed hire purchase agreement:
+
+"This agreement shall become binding on the owner only upon acceptance by signature on behalf of the owner and the hiring shall be deemed to commence on such date of acceptance."
+
+On 16th March 1961 the proposed hire purchaser, Mr Stimson having had time to study these documents, came back with his own signature on the front page. He thereby made his offer, and he handed it to the dealer on that day for transmission to Finance Company. It was transmitted, and Finance Company seem to have received it probably on the 17th or, at any rate, not later than 20th March; almost certainly it must have been about the 17th. Then, after a telephone conversation had taken place between the dealer and Finance Company, the dealer, obviously with the authority of Finance Company, informed the proposed hire purchaser that the proposition was acceptable to Finance Company, and possession of the car was given by the dealer to the hire purchaser. At that moment the transaction was not concluded: the agreement had not yet been signed by Finance Company as owners, and, therefore, there was no hire purchase agreement in existence. But some contract has to be inferred from the conduct of the parties. On the one hand the proposed hire purchaser signed and handed in his offer. He had also, at the request of the dealer and for the benefit of Finance Company, produced a comprehensive insurance cover to show that the car was going to be properly covered. But at that moment there was only a preliminary bailment. There was delivery of the car to the hire purchaser, but no hire purchase agreement had come into force. The expectation was that, in a few days' time, there would be a signature on behalf of Finance Company as owners, which would be an acceptance of the offer and conclude the contract and there would be a hire purchase agreement. But if, for some reason, Finance Company decided they would not go on with the transaction, then the understanding must have been that, in such event, the motor car would have to be handed back by the proposed hire purchaser. That is the position on 18th March and I agree that one cannot read into the terms of that provisional bailment all the terms of the hire purchase agreement. That would not be consistent with the evident intention of the parties, which was merely to create a provisional situation in anticipation of the hire purchase agreement being concluded.
+
+It may well be that the dealer had authority and appeared to have authority from Finance Company to do various things, in particular to hand over the car and to scrutinise the proposed insurance cover to make sure it was a satisfactory comprehensive cover, and it may be there was authority in other respects as well. But I do not see that it follows from any of the facts of this case that the dealer had authority to receive notice of revocation in the relevant sense, which would not be merely to receive it and transmit it to Finance Company on the basis that the dealer would be the authorised and proper channel of communication. The authority would have to go further in the present case. It has to be said that, at the moment when the hire purchaser gave notice to the dealer of his desire to revoke his offer, that was automatically at that moment notice to Finance Company. In my view, that is not a reasonable view of the facts. It is reasonable to say that if the hire purchaser wished to withdraw his offer, it would be right for him to inform the dealer and make the dealer his agent for the purpose of passing on the message. The dealer would be the authorised channel of communication, but it does not follow that Finance Company had made the dealer their agent to such an extent that the mere giving of a revocation notice to the dealer would then and there amount to a withdrawal of the offer. It is clear that the dealer was not authorised to conclude the transaction, and, therefore, one may ask: why should he be authorised on his own initiative or by his mere receipt of some notice to undo the transaction? He clearly was not authorised to rescind an agreement if an agreement had been completed, and it does not seem to me to follow from any of the facts that he was acting in such a capacity that information given to him was at once information given to Finance Company.
+
+That view of the matter is also borne out by the evidence as to what happened on Monday, 20th March when the intending hire purchaser came to the dealer and said in effect: 
+
+"Here is the car; I have brought it back; I do not want to go on with the transaction". 
+
+What was then said by Mr Cozens-Walker on behalf of the dealer was:
+
+"Very well; I will get in touch with one of the directors of the Finance Company whom I know and will see what can be done and I will let you know the outcome" 
+
+and, according to the evidence of Mr Cozens-Walker, which seems to have been accepted by the learned Judge, he also added: 
+
+"But you, Mr Stimson, must also see if you can get in touch with the Finance Company and make the necessary arrangements yourself". 
+
+The explanation of that as a matter of history is that probably both of those parties, namely, the dealer and the proposed hire purchaser, thought that there was a concluded contract and that what had to be done was to bring about a rescission of it by agreement, because the proposed hire purchaser also added that he was willing to forfeit his deposit of £70 which he had already paid in order to secure a rescission of the proposed transaction so far as it had gone. That is consistent with assuming that there was a concluded agreement which had to be rescinded on terms rather than an offer which had to be withdrawn. I do not see how one can spell out from that conversation a receipt by the dealer of notice of revocation of the offer. It was not what they were purporting to do, and, to my mind, there is no sufficient evidence of actual or ostensible authority on the part of the dealer to receive any communication as immediately constituting notice to Finance Company. Such authority was not possessed in fact; it was not an apparent or ostensible authority; and Mr Cozens-Walker did not profess to have it. So on the first point I am unfortunately not able to agree that there was ostensible authority, nor, as I think is the more accurate way of putting it, that the mere holding of that conversation between Mr Stimson, the proposed hire purchaser, and Mr Cozens-Walker on behalf of the dealer, constituted the giving of notice to Finance Company of revocation of the offer.
+
+However, on the second point, I do agree that the offer was conditional. It is not necessary for the purpose of this case to lay down any broad general propositions about what happens when there is a change in the condition of the goods between the date of offer and the date of acceptance, because we have important special features in this case. This was a hire purchase transaction, and the offer which was signed by the proposed hire purchaser, Mr Stimson on 16th March contained this provision:
+
+"In signing this agreement the hirer acknowledges that before he signed it - (c) he had examined the goods and satisfied himself that they were in good order and condition."
+
+That is something which has to be signed by the offeror. What is the meaning of it and what have you to infer in order to give reasonable business efficacy to this transaction? The obvious intention is this, that both the proposed hire purchaser and the Finance Company will be able to rely on the condition of the car as it appears to the proposed hire purchaser when he made his offer, and it is on the basis of the car being in that condition that various figures, which one finds on the same page, must have been assessed. The cash price of the goods was £350. That is right as long as the car remains in the same condition, but if in the meantime it suffers injury so that it is depreciated by £100, that figure will be wrong and it should be altered to £250. Equally, the initial instalment of £70 having been paid, it appears to leave £280 to be found, but that figure also would be wrong; if £100 damage had occurred in the meantime, it should be reduced to £180. The amount and number of the monthly instalments would also become wrong. Furthermore (and this is important), in the event of the hire purchaser making default in payment of the instalments, he would, under the terms of the hire purchase agreement, become liable to pay a certain figure. That figure would by that time have become much too high if £100 of damage had been incurred. 
+
+The learned Judge found in terms that this car suffered severe damage before the acceptance, and that there was substantial depreciation as the result. On that basis, it seems to me that we should by implication read into this offer, in order to give the transaction that business efficacy which the parties must have intended it to have, an implied condition that this offer is capable of acceptance only if the car remains in substantially the same condition with substantially the same value. That condition in this case was not fulfilled, because the car was severely damaged and its value was substantially depreciated. Therefore, when Finance Company purported to accept it on a date, which we must assume was 25th March it was an offer which was no longer capable of acceptance, and, therefore, no agreement was concluded.
+
+On that ground, I agree that the appeal should be dismissed.
+
+Order: Appeal dismissed with no order as to the costs of the appeal.
+
+
+]
+[
+
+LORD JUSTICE ORMEROD: I will ask Lord Justice Pearson to deliver the first Judgment in this case.
+
+LORD JUSTICE PEARSON: This la an Appeal by the defendant landlord, Mr Preen, from a judgment of His Honour Deputy Judge Ellison given at the Marylebone County Court on the 10th Nay, 1962. The judgment was in favour of the plaintiff tenant, Mrs Kenny, for £100 damages for breach of an implied covenant for quiet enjoyment of her two-roomed flat in the landlord's house, and for an injunction to restrain the landlord from interfering with the tenant's quiet enjoyment of the flat, and for costs on scale 3.
+
+There is a cross-appeal by the tenant against the learned Judge's refusal to grant a declaration that her tenancy of the flat is protected by virtue of the Rent Acts, 1920-57.
+
+It will be convenient to refer to the pleadings. The Particulars of Claim, in paragraph 1, state: 
+"The Plaintiff is the tenant and the Defendant is the landlord of two rooms... which said premises the landlord let to the tenant on the 23rd December, 1956, at a rental of £3.12s. per week".
+
+Paragraph 2: 
+"The said tenancy is protected under the provisions of the Rent Acts, 1920 to 1957, by virtue of the fact that the rateable value of the premises comprised therein, if separately apportioned, would be leas than £40".
+
+Paragraph 3: 
+"In breach of the covenant for quiet enjoyment implied by law by virtue of the said tenancy the Defendant has wrongfully threatened to evict the Plaintiff from the premises on numerous occasions, and by letter dated 16th January, 1962, the Defendant threatened to remove the Plaintiff's possessions from the said flat".
+
+Then the Defence is quite short, in three paragraphs: 
+"(1) It is denied that the tenancy is a tenancy of unfurnished premises.  (2) It is denied that there was any breach as alleged or at all.  (3) The Defendant will contend that the Particulars of Claim disclose no cause of action and that the County Court has no jurisdiction to determine the cause".
+
+In the County Court much of the evidence and argument was directed to the question raised by paragraph 1 of the Defence, whether the tenant's tenancy was a tenancy of unfurnished premises so as to be within the protection of the Rent Acts. There was no argument on that question in this appeal. Mr Lester, in presenting the Appeal on behalf of the landlord, has relied upon another point, which he took in the County Court both as a preliminary objection to the jurisdiction and as an argument on the merits against the tenant's claim. The point la this. Be it assumed that at all material times the tenant had a tenancy of the flat and accordingly there was to be implied a covenant for quiet enjoyment Mr Lester has contended that neither the facts alleged in paragraph 3 of the Particulars of Claim, nor any facts found by the learned Judge, nor any facts which might be regarded as proved by the evidence, could in law constitute a breach of the covenant for quiet enjoyment, and therefore the claim for damages was untenable and should have been rejected, and there was no basis for granting the injunction.
+
+Mr Lester has a further point as to the amount of damages, but I will deal with that at a later stage. The main question in this appeal is whether there was a breach of the covenant for quiet enjoyment.
+
+In my view there is no discrepancy between the tenant's case as pleaded in paragraph 3 of the Particulars of Claim and the relevant facts revealed by the evidence and found by the learned Judge. The landlord did not ask for further and better particulars of paragraph 3 of the Particulars of Claim, and the wording of that paragraph is wide enough to cover the facts on which the tenant now relies.
+
+At the trial there was an agreed bundle of correspondence, and oral evidence was given by the tenant and by the landlord, and the learned Judge gave a full judgment stating his findings ' of fact and his views on the legal issues involved. It is, evident from his findings that he accepted the tenant's evidence in preference to that of the landlord, and ha summarised the general effect of the landlord's letters as saying to the tenant in the loudest possible terms: "Get out"; and in a later passage of his judgment the learned Judge said; 
+"I also find that the conduct of the defendant landlord in the correspondence by reason of his letters as a whole - note the dates, the frequent occurrence of these letters and the terms of them, consider the evidence of the Plaintiff concerning shouting at her and knocking at her door, all obviously in connection with the point of view advanced in the correspondence pressed upon her - it seems to me perfectly plain that Mr Preen was telling her that she had no business to be there any longer and she must get out".
+
+The learned Judge, however, was taking the view in law that a mere challenge by the landlord to the tenant's title, a denial of her title, would in itself constitute a breach of the covenant. As I am not able to adopt that view of the law I must examine the correspondence and the principal passage in the oral evidence in order to ascertain more fully what the landlord's conduct was and, in particular, the manner and content of his threatening communications.
+
+I will not refer to all of these letters but to the most important of them. On the 3rd March, 1961, the landlord wrote to the tenant: 
+
+"Dear Madam, 
+re Notice to Quit, 
+As you are aware that your notice to quit the two rooms has expired and I must make it clear to you that I urgently require these rooms for myself. You have always complained about something all the time you have been here likewise you did at your previous address and I have tried to do all I can for you in every way possible. Therefore I intend starting work on the rooms early next week* The delay in moving is costing me unnecessary expense and I must hold you responsible for this cost".
+
+At the moment when the landlord wrote that letter he may have believed that he had a clear right to possession or he may not, but on the following page, on the same date, 3rd March, there is a letter from the solicitors for the tenant explaining the position to him, and making it quite clear that in their view, as they said, "the aforementioned premises let to our client are not furnished premises within the meaning of the" various Acts, and they say: 
+"It follows from that that our client enjoys the protection of the Rent Acts". They go on to say: "We have advised our client accordingly, and that she need not move from the premises and that the effect of a Notice to Quit would only be to turn her from a contractual tenant into a statutory tenant. In any event we are instructed that the Notice to Quit, which we understand was put into a rent book, was not a valid notice". 
+Then they ask for the restoration of the rent book to the Plaintiff, and go on to say: 
+"Finally we have advised our client that if you wish to prefer any claim to the premises you are obliged to make a claim through the local County Court. In this event our client will seek legal aid in order to defend any proceedings you may wish to institute. It is, however, to be hoped that matters can be settled amicably between yourself and our client rather than have recourse to legal proceedings".
+
+It is significant that the landlord did net make any answer to that letter from the tenant's solicitors raising a legal issue. Instead of that, he chose to write again to the tenant herself, and he said: 
+"I have received a letter from Oliver O. Fisher & Co. regarding your tenancy of the first floor two rooms. It seems that you have failed to tell these solicitors the truth and it is no good you trying to make false accusations as I will not stand for it". Then he goes on to argue the question, and he says: "You have now gone far enough and I require" possession "within seven days otherwise I intend forcing my rights. All damage caused by you will be charged for".
+
+On the 29th March he writes again to the tenant: 
+"It seems that you wish me to take drastic measures against you to have you evicted from the rooms. You have caused trouble all the time you have been a tenant of mine and now you are nearly two months in occupation of the rooms and no rent has been paid.
+
+I will claim heavy damages against you, as it is costing me now over £5 every week now for space I urgently require for my business. You have made excuses and actually not told the truth on many occasions and now I must enforce my rights. It is now up to you to vacate the rooms to save any further unpleasantness".
+
+There were further letters, and then at page 9, on 4th November, he wrote to her: 
+"Dear Madam, 
+You are very much in arrears of rent due and unless same is brought up to date by 10 a.m. Monday, 6th November, I will have no other alternative but to evict you next week. I have been very tolerant with you, which no other person would have been". 
+
+In my view "evict you" must refer to physical eviction, because he is threatening to evict her next week. That cannot refer to legal proceedings. It means physical eviction, presumably by force if necessary.
+
+There is a further letter, and on page 11 there is a further notice to quit which may or may not have been valid.
+
+Then on page 12 of the bundle, on 12th December, the landlord writes: 
+"I will be taking occupation of the two rooms on the 2nd of January as when the Notice to Quit is then operative".
+
+Then on page 13, on 16th January, he wrote: 
+"You have not vacated the rooms, although I have served you with the Official Notice to Quit. Unless I have possession of the rooms you occupy by this weekend I will be forced to have your belongings moved. So please avoid any unpleasantness by obeying the order served". 
+The reference to "the order" I think must be a mere reference to the notice to quit. There is a threat that he will be forced to have her belongings removed. It is a threat of physical action to oust her from the premises. There is again a letter on page 15, of 20th January, 1962, in which he says: 
+"Dear Madam, 
+I have given you every chance to carry out my request to quit. Next week I will instruct Removals to clear your property from the rooms and you must make arrangements regarding same".
+
+There had also been a letter from the solicitors on the 19th January, and once more that was not answered by the landlord, who preferred instead to write to the tenant, seeking to bring pressure upon her.
+
+That is the main part of the correspondence in this ease. There is also one passage in the oral evidence of the tenant which I should read. She said: 
+"I received letter 3rd March, 1961. When I saw him (Defendant) he said to get out of room. He shouted at me and said he would get van and put things in street. He knocked on door to tell me this.  'I must have these rooms'.  'I am going to put your furniture in the street'. He knocked on door quite a number of times. He shouts quite often in past year".
+
+Mr Lester has contended on behalf of the landlord that the evidence does not reveal any breach of the covenant, because the landlord only made communications to the tenant and did nothing amounting to physical interference with the tenant's possession and enjoyment of the premises. He relied on passages in the judgment in Owen v. Gadd (1956, 2 Q.B., 99, C.A.), and in judgments in previous cases there cited, as showing that some direct physical interference is necessary to constitute a breach of the covenant.
+
+Mr Sheridan has contended on behalf of the tenant, first, that a mere challenge by the landlord to the tenant's title, a denial by him of her title, would be sufficient to constitute a breach of the covenant; secondly that in this case there was in fact some physical interference with the tenant's possession and enjoyment of the premises; and thirdly, mere generally, that on the facts of this ease, taken as a whole, there was a breach of the covenant. He cited the case of Edge v. Boileau (1885, 16 Q.B.D., 117, at 119) as showing that physical interference is not necessarily required to constitute a breach of the covenant. That was a case in which the landlord was held to have committed a breach of the covenant by telling the subtenants to pay their rent to him instead of to the tenant. It is easy to see that that was an interference by the landlord with the tenant's enjoyment of his rights as tenant.
+
+The learned Judge accepted Mr Sheridan's first contention, that a mere challenge by the landlord to the tenant 'a title, a denial by him of her title, would be sufficient to constitute a breach of the covenant. I am not able to adopt the learned Judge's view on that point. We are not concerned in this case with a denial of the tenant's initial title by virtue of the letting, and I am not considering whether or not that could be a breach of the covenant. In this case the landlord was asserting that the tenant's title, her right to possession of the premises, although initially valid, had been wholly determined by a notice to quit. In my judgment a landlord by merely making that assertion, however wrong he may be, does not commit a breach of covenant. He la entitled to make that assertion, at any rate if he believes it to be true, frequently, emphatically and even rudely. He is entitled also to threaten proceedings in the Courts for possession and damages.
+
+In the present case, however, there was much more than that. The landlord evaded answering the solicitors' letters raising the tenant's defences to his claim. He concentrated his attention on the tenant herself and tried, by a series of" threatening communications, to drive her out of her possession of the premises. The threats were not merely of legal proceedings: there were threats of physical eviction of the tenant and removal of her belongings. Moreover there was an element of direct physical interference by repeatedly knocking on the door and shouting the threats to her. That element of direct physical interference was not trivial but substantial in this case, because it was persisted in and because it has to be seen against the background of the threatening letters.
+
+The implied covenant for quiet enjoyment is not an absolute covenant protecting a tenant against eviction or interference by anybody, but is a qualified covenant protecting the tenant against interference with the tenant's quiet and peaceful possession and enjoyment of the premises by the landlord or persons claiming through or under the landlord. The basis of it la that the landlord, by letting the premises, confers on the tenant the right of possession during the term and impliedly promises not to interfere with the tenant's exercise and use of the right of possession during the term. I think the word "enjoy" used in this connection is a translation of the Latin word "fruor" and refers to the exercise and use of the right and having the full benefit of it, rather than to deriving pleasure from it.
+
+The nature of the implied covenant was explained in Budd-Scott v. Daniell (1902, 2 K.B., 351), in judgments of a Divisional Court. Lord Alverstone, the Chief Justice, said at page 355: 
+"Apart from authority it would certainly seem, on principle and in common sense, that when one person agrees to give possession of his house for a time to another, that ought to carry with it an agreement that he, the landlord, and those claiming through him, will not dispossess the tenant during that time. Therefore, unless there is some special meaning attached to the word 'demise', the good sense of the thing would seem to be that, upon an agreement to let, a covenant or contract was to be implied that the landlord and those claiming under him would not disturb the possession of the tenant. Unless driven to do so by authority, I should hesitate a long time before drawing any distinction in that respect between the words 'agree to let' and 'demise'".
+
+The learned Lord Chief Justice said that, because reference had been made to a previous case of Baynes & Co. v. Lloyd & Sons, in which Lord Justice Kay had said that the implied covenant was only to be implied if the word "demised" was used, and could not be implied if some other word was used.
+
+Also in the same ease of Budd-Scott v. Daniell, at page 361 Mr Justice Channell said: 
+"I must say that, speaking for myself, until I read this judgment of the Court of Appeal in Baynes & Co. v. Lloyd & Sons I always had thought that from the mere fact of letting there was some agreement implied by the landlord that the tenant should not be disturbed, though there might be a question as to what that agreement was. As to this question also, however, I should have thought that it had been now settled that the agreement was only against disturbance by the lessor and those claiming under him, and was limited to the duration of the lessor's interest. If the undertaking is limited in that way, it would seem, as was pointed out by Chief Justice Cockburn in Hall v. City of London Brewery Co., to be nothing more than that which the act of letting into possession for a fixed period would itself in common sense import. If a man lets a house for a year, he most undoubtedly does undertake that he will not himself interfere with the possession of his tenant during that time, and it is only reasonable that his undertaking should be held to extend to those claiming under him".
+
+Reference may also be made to a case called Markham v. Paget (1908 1 Chancery, 697). At page 718 Mr Justice Swinfen Eady read an extract from Platt on Covenants, and the concluding words of the extract are these: "for, as against the party himself, the Court will not consider the word lawful, nor drive the covenantee to an action of trespass, when, by the generally implied covenant in law, the vendor had engaged not to annul his own deed, either by a rightful or an illegal entry". That la surely the same principle emerging there, that the landlord is not allowed to "annul his own deed" by interfering with the possession which he himself has conferred on the tenant.
+
+I would decide on two grounds in favour of the tenant's contention that there was, in this case, a breach of the covenant for quiet enjoyment. First, there was a deliberate and persistent attempt by the landlord to drive the tenant out of her possession of the premises by persecution and intimidation, and intimidation included threats of physical eviction of the tenant and removal of her belongings. In my view that course of conduct by the landlord seriously interfered with the tenant's proper freedom of action in exercising her right of possession, and tended to deprive her of the full benefit of it, and was an invasion of her rights as tenant to remain in possession undisturbed, and so would in itself constitute a breach of covenant, even if there were no direct physical interference with the tenant's possession and enjoyment. No ease of this kind has ever been considered by the Courts before, and I do not think the dicta in the previous cases should be read as excluding a case of this kind where a landlord seeks, by a course of intimidation, to "annul his own deed", to contradict his own demise, by ousting the tenant from the possession which the landlord has conferred upon her.
+
+Secondly, if direct physical interference is a necessary element in the breach of covenant that element can be found in this case to a substantial extent, as I have already stated.
+
+Next there is the question as to the amount of damages for the breach of the covenant. The sum adjudged was £100. There was, however, no allegation or evidence of any actual pecuniary or material damage suffered by the tenant. The only wrongful act alleged was a breach of covenant, that is, a breach of contract. No tort such as trespass or nuisance was alleged. An application at the trial for leave to amend by adding a claim in nuisance was refused. As the claim was only in contract and not in tort, punitive or exemplary damages could not properly be awarded: Perera v. Vandiya (1953 1 W.L.R. 672, C.A.). Accordingly there was no ground for awarding any damages other than nominal damages, which I would assess at 40s.
+
+The reduction of the amount of damages does not affect the injunction, which was properly granted to restrain repetition of the breach of covenant found to have been committed. It is true, as Mr Lester pointed out, that the Particulars of Claim failed to allege, as they should have done, that the landlord threatened and intended to continue or repeat the breach unless restrained by order of the Court. This, however, was a minor defect in the pleading which should not affect the decision. The intention can and should be inferred from the evidence.
+
+There remains to be considered the question raised by the cross-appeal against the learned Judge's refusal to make a declaration. The declaration prayed by the tenant in her Particulars of Claim was: 
+"A declaration that her tenancy of the said premises on the first floor of 5, Elgin Crescent aforesaid la protected by virtue of the Rent Acts, 1920 to 1957".
+
+The learned Judge decided that he had no jurisdiction to grant this declaration. I think that the ground of his decision was that the declaration could not reasonably be regarded as ancillary to the claim for damages: De Vries v. Smallridge (1928, 1 K.B., 482, C.A.) and The County Court Practice, 1962, page 62. In my view the decision of the learned Judge should be upheld.
+
+It has been contended for the tenant in the cross-appeal that the claim or the judgment for damages for breach of covenant for quiet enjoyment necessarily involves the existence of such a covenant which, in turn, necessarily involves the
+
+existence of a tenancy, and a declaration of the existence of a tenancy would merely spell out and record something already implicit in the claim or judgment for damages, and accordingly the prayer for the declaration should be regarded as being for ancillary relief and so within the County Court's jurisdiction. The difficulty, however, is that the declaration asked for is not merely a declaration of the existence of a tenancy but a declaration that her tenancy is protected by the Rent Acts. That is a further step, and a major step, and not something ancillary.
+
+I would allow the appeal, but only to the extent of reducing the amount of damages from £100 to £2.
+
+I would dismiss the cross-appeal.
+
+LORD JUSTICE ORMEROD: I agree with the Judgment which has been delivered by Lord Justice Pearson and I have come to the same conclusion for the same reasons. There la nothing I wish to add.
+
+LORD JUSTICE DONOVAN: Save as to damages I agree that the Appeal should be dismissed.
+
+I do not think that the Court here is making any alarming extension to the scope of an implied covenant for quiet enjoyment. We are not saying it is a covenant that the tenant shall enjoy peace throughout his tenancy, or be immune from even a temporary disturbance of his quiet. We are here dealing with a special - and, I hope, unusual - case. It is a case of a somewhat bullying landlord and an elderly and apparently timid woman who is his tenant. From November, 1959, to March, 1962, a period of some 17 months, he pursued a set campaign to get rid of her by means of abusive and defamatory letters, coupled with calls at her rooms, where he knocked on the outside door demanding to have the rooms and threatening to put the Respondent's furniture in the street. When eventually the Respondent took advice and her solicitors wrote to the Appellant he preferred to ignore the solicitors and to reply to this lady, repeating the threats and abuse. The effect of this campaign must have been, among other things, to make the lady afraid that if she left her accommodation for sufficient time she might return to find that the Appellant had dispossessed her and put her belongings in the street* In this way her peaceable enjoyment of the occupation of the rooms was certainly diminished.
+
+I have no difficulty in concluding that the Appellant's conduct was direct physical interference with the enjoyment of the premises let, and more than the creation of a mere personal annoyance. If that view be justified then, on the authorities, there has been a breach of the covenant for quiet enjoyment.
+
+It was argued for the Appellant that there was no physical act done here; but short of a battery how more physical can you get than by knocking on the tenant's door and shouting threats through it?
+
+It may be that modern conditions of life may call for a review of the requirement that some physical act is an essential element in a breach of the covenant for quiet enjoyment! but in the present case I think the physical element is present.
+
+On the question of damages, I agree that nominal damages only should have been awarded, and that these should be the sum of £2.
+
+As to the cross-appeal, the general ancillary jurisdiction in the County Court is conferred by section 74 of the County Courts Act of 1959, which so far as here material reads thus: "Every county court, as regards any cause of action for the time being within its jurisdiction, shall, in any proceedings before it - (a) grant such relief, redress or remedy or combination of remedies, either absolute or conditional....as ought to be granted or given in the like case by the High Court and in as full and ample a manner".
+
+
+ 
+
+This Court, in De Vries v. Smallridge (1928, 1 K.B. 4) held that the jurisdiction of the County Court to make declarations, being only an ancillary jurisdiction, was not available unless the claim or demand was one also within the jurisdiction of the County Court. That condition la satisfied here.
+
+But in Humber Conservancy Board v. Federated Coal and Shipping Co. (1948, 1 K.B., 492), Lord Justice Scrutton said this at page 496: "I only wish to say this further. For some odd reason the plaintiffs began by claiming a declaration, and followed it by a claim for £3.10s. We have said several times in this Court that much too much use is being made of declarations in the county court. I need only refer to two recent cases, Smith v. Smith and, in the Court of Appeal, Rex v. Cheshire County Court Judge and United Society of Boilermakers, where some very relevant remarks of Lord Sterndale will be found. Declarations are only to be asked as ancillary to money claims. In what sense the declaration asked for in this case is ancillary to a claim for £3.10s. I have been quite unable to understand. It is asked that the learned judge should declare the facts or some of the facts which it is necessary to establish in order to make a claim for £3.10s. But one might as well put in a claim for a declaration that he should give judgment for £50 or £100. People ask for declarations without thinking what they want declarations for". I do not say that that last observation applies here. But how is the declaration ancillary to the claim for damages which here succeeded?
+
+It is argued that in order to establish the money claim a tenancy had to be established of unfurnished premises, and that therefore it would be right to declare that that fact had been established. But if this were so why should not a declaration be asked for of every fact which had to be established as the foundation for a money claim? This, however, would not be the granting of ancillary relief. Ancillary means subservient to; and here it does not serve or assist this particular claim for damages to declare that the lady's tenancy
+
+is protected by virtue of the Rent Acts. A different wording is now proposed, namely, that her tenancy is an unfurnished tenancy and as such entitled to protection. But, as I understand the matter, this will still leave open the question whether it remains a contractual or has become a statutory tenancy. And whichever it is does not affect the claim for damages. That the lady was a tenant of one sort or another was not disputed.
+
+The Respondent's real reason for seeking a declaration is to avoid further litigation on the question whether the tenancy is furnished or not since. it might be said that this was not the ratio decidendi of the present decision. I think that the Appellant would be ill-advised if he sought to re-open this question after the length of time it occupied the County Court* Be that as it may? this consideration does not cure the fundamental defect of a want of jurisdiction*
+
+I think, therefore, that the Respondent's Appeal fails.
+
+(Appeal  allowed only  to extent damages reduced from £100 to £2; Croat-appeal dismissed; no order as to costs on appeal and cross-appeal; Legal Aid taxation of Respondent's costs in the appeal).
+
+
+]
+[
+
+LORD JUSTICE ORMEROD: I will ask Lord Justice Pearson to deliver the first Judgment in this case.
+
+LORD JUSTICE PEARSON: This la an Appeal by the defendant landlord, Mr Preen, from a judgment of His Honour Deputy Judge Ellison given at the Marylebone County Court on the 10th Nay, 1962. The judgment was in favour of the plaintiff tenant, Mrs Kenny, for £100 damages for breach of an implied covenant for quiet enjoyment of her two-roomed flat in the landlord's house, and for an injunction to restrain the landlord from interfering with the tenant's quiet enjoyment of the flat, and for costs on scale 3.
+
+There is a cross-appeal by the tenant against the learned Judge's refusal to grant a declaration that her tenancy of the flat is protected by virtue of the Rent Acts, 1920-57.
+
+It will be convenient to refer to the pleadings. The Particulars of Claim, in paragraph 1, state: 
+"The Plaintiff is the tenant and the Defendant is the landlord of two rooms... which said premises the landlord let to the tenant on the 23rd December, 1956, at a rental of £3.12s. per week".
+
+Paragraph 2: 
+"The said tenancy is protected under the provisions of the Rent Acts, 1920 to 1957, by virtue of the fact that the rateable value of the premises comprised therein, if separately apportioned, would be leas than £40".
+
+Paragraph 3: 
+"In breach of the covenant for quiet enjoyment implied by law by virtue of the said tenancy the Defendant has wrongfully threatened to evict the Plaintiff from the premises on numerous occasions, and by letter dated 16th January, 1962, the Defendant threatened to remove the Plaintiff's possessions from the said flat".
+
+Then the Defence is quite short, in three paragraphs: 
+"(1) It is denied that the tenancy is a tenancy of unfurnished premises.  (2) It is denied that there was any breach as alleged or at all.  (3) The Defendant will contend that the Particulars of Claim disclose no cause of action and that the County Court has no jurisdiction to determine the cause".
+
+In the County Court much of the evidence and argument was directed to the question raised by paragraph 1 of the Defence, whether the tenant's tenancy was a tenancy of unfurnished premises so as to be within the protection of the Rent Acts. There was no argument on that question in this appeal. Mr Lester, in presenting the Appeal on behalf of the landlord, has relied upon another point, which he took in the County Court both as a preliminary objection to the jurisdiction and as an argument on the merits against the tenant's claim. The point la this. Be it assumed that at all material times the tenant had a tenancy of the flat and accordingly there was to be implied a covenant for quiet enjoyment Mr Lester has contended that neither the facts alleged in paragraph 3 of the Particulars of Claim, nor any facts found by the learned Judge, nor any facts which might be regarded as proved by the evidence, could in law constitute a breach of the covenant for quiet enjoyment, and therefore the claim for damages was untenable and should have been rejected, and there was no basis for granting the injunction.
+
+Mr Lester has a further point as to the amount of damages, but I will deal with that at a later stage. The main question in this appeal is whether there was a breach of the covenant for quiet enjoyment.
+
+In my view there is no discrepancy between the tenant's case as pleaded in paragraph 3 of the Particulars of Claim and the relevant facts revealed by the evidence and found by the learned Judge. The landlord did not ask for further and better particulars of paragraph 3 of the Particulars of Claim, and the wording of that paragraph is wide enough to cover the facts on which the tenant now relies.
+
+At the trial there was an agreed bundle of correspondence, and oral evidence was given by the tenant and by the landlord, and the learned Judge gave a full judgment stating his findings ' of fact and his views on the legal issues involved. It is, evident from his findings that he accepted the tenant's evidence in preference to that of the landlord, and ha summarised the general effect of the landlord's letters as saying to the tenant in the loudest possible terms: "Get out"; and in a later passage of his judgment the learned Judge said; 
+"I also find that the conduct of the defendant landlord in the correspondence by reason of his letters as a whole - note the dates, the frequent occurrence of these letters and the terms of them, consider the evidence of the Plaintiff concerning shouting at her and knocking at her door, all obviously in connection with the point of view advanced in the correspondence pressed upon her - it seems to me perfectly plain that Mr Preen was telling her that she had no business to be there any longer and she must get out".
+
+The learned Judge, however, was taking the view in law that a mere challenge by the landlord to the tenant's title, a denial of her title, would in itself constitute a breach of the covenant. As I am not able to adopt that view of the law I must examine the correspondence and the principal passage in the oral evidence in order to ascertain more fully what the landlord's conduct was and, in particular, the manner and content of his threatening communications.
+
+I will not refer to all of these letters but to the most important of them. On the 3rd March, 1961, the landlord wrote to the tenant: 
+
+"Dear Madam, 
+re Notice to Quit, 
+As you are aware that your notice to quit the two rooms has expired and I must make it clear to you that I urgently require these rooms for myself. You have always complained about something all the time you have been here likewise you did at your previous address and I have tried to do all I can for you in every way possible. Therefore I intend starting work on the rooms early next week* The delay in moving is costing me unnecessary expense and I must hold you responsible for this cost".
+
+At the moment when the landlord wrote that letter he may have believed that he had a clear right to possession or he may not, but on the following page, on the same date, 3rd March, there is a letter from the solicitors for the tenant explaining the position to him, and making it quite clear that in their view, as they said, "the aforementioned premises let to our client are not furnished premises within the meaning of the" various Acts, and they say: 
+"It follows from that that our client enjoys the protection of the Rent Acts". They go on to say: "We have advised our client accordingly, and that she need not move from the premises and that the effect of a Notice to Quit would only be to turn her from a contractual tenant into a statutory tenant. In any event we are instructed that the Notice to Quit, which we understand was put into a rent book, was not a valid notice". 
+Then they ask for the restoration of the rent book to the Plaintiff, and go on to say: 
+"Finally we have advised our client that if you wish to prefer any claim to the premises you are obliged to make a claim through the local County Court. In this event our client will seek legal aid in order to defend any proceedings you may wish to institute. It is, however, to be hoped that matters can be settled amicably between yourself and our client rather than have recourse to legal proceedings".
+
+It is significant that the landlord did net make any answer to that letter from the tenant's solicitors raising a legal issue. Instead of that, he chose to write again to the tenant herself, and he said: 
+"I have received a letter from Oliver O. Fisher & Co. regarding your tenancy of the first floor two rooms. It seems that you have failed to tell these solicitors the truth and it is no good you trying to make false accusations as I will not stand for it". Then he goes on to argue the question, and he says: "You have now gone far enough and I require" possession "within seven days otherwise I intend forcing my rights. All damage caused by you will be charged for".
+
+On the 29th March he writes again to the tenant: 
+"It seems that you wish me to take drastic measures against you to have you evicted from the rooms. You have caused trouble all the time you have been a tenant of mine and now you are nearly two months in occupation of the rooms and no rent has been paid.
+
+I will claim heavy damages against you, as it is costing me now over £5 every week now for space I urgently require for my business. You have made excuses and actually not told the truth on many occasions and now I must enforce my rights. It is now up to you to vacate the rooms to save any further unpleasantness".
+
+There were further letters, and then at page 9, on 4th November, he wrote to her: 
+"Dear Madam, 
+You are very much in arrears of rent due and unless same is brought up to date by 10 a.m. Monday, 6th November, I will have no other alternative but to evict you next week. I have been very tolerant with you, which no other person would have been". 
+
+In my view "evict you" must refer to physical eviction, because he is threatening to evict her next week. That cannot refer to legal proceedings. It means physical eviction, presumably by force if necessary.
+
+There is a further letter, and on page 11 there is a further notice to quit which may or may not have been valid.
+
+Then on page 12 of the bundle, on 12th December, the landlord writes: 
+"I will be taking occupation of the two rooms on the 2nd of January as when the Notice to Quit is then operative".
+
+Then on page 13, on 16th January, he wrote: 
+"You have not vacated the rooms, although I have served you with the Official Notice to Quit. Unless I have possession of the rooms you occupy by this weekend I will be forced to have your belongings moved. So please avoid any unpleasantness by obeying the order served". 
+The reference to "the order" I think must be a mere reference to the notice to quit. There is a threat that he will be forced to have her belongings removed. It is a threat of physical action to oust her from the premises. There is again a letter on page 15, of 20th January, 1962, in which he says: 
+"Dear Madam, 
+I have given you every chance to carry out my request to quit. Next week I will instruct Removals to clear your property from the rooms and you must make arrangements regarding same".
+
+There had also been a letter from the solicitors on the 19th January, and once more that was not answered by the landlord, who preferred instead to write to the tenant, seeking to bring pressure upon her.
+
+That is the main part of the correspondence in this ease. There is also one passage in the oral evidence of the tenant which I should read. She said: 
+"I received letter 3rd March, 1961. When I saw him (Defendant) he said to get out of room. He shouted at me and said he would get van and put things in street. He knocked on door to tell me this.  'I must have these rooms'.  'I am going to put your furniture in the street'. He knocked on door quite a number of times. He shouts quite often in past year".
+
+Mr Lester has contended on behalf of the landlord that the evidence does not reveal any breach of the covenant, because the landlord only made communications to the tenant and did nothing amounting to physical interference with the tenant's possession and enjoyment of the premises. He relied on passages in the judgment in Owen v. Gadd (1956, 2 Q.B., 99, C.A.), and in judgments in previous cases there cited, as showing that some direct physical interference is necessary to constitute a breach of the covenant.
+
+Mr Sheridan has contended on behalf of the tenant, first, that a mere challenge by the landlord to the tenant's title, a denial by him of her title, would be sufficient to constitute a breach of the covenant; secondly that in this case there was in fact some physical interference with the tenant's possession and enjoyment of the premises; and thirdly, mere generally, that on the facts of this ease, taken as a whole, there was a breach of the covenant. He cited the case of Edge v. Boileau (1885, 16 Q.B.D., 117, at 119) as showing that physical interference is not necessarily required to constitute a breach of the covenant. That was a case in which the landlord was held to have committed a breach of the covenant by telling the subtenants to pay their rent to him instead of to the tenant. It is easy to see that that was an interference by the landlord with the tenant's enjoyment of his rights as tenant.
+
+The learned Judge accepted Mr Sheridan's first contention, that a mere challenge by the landlord to the tenant 'a title, a denial by him of her title, would be sufficient to constitute a breach of the covenant. I am not able to adopt the learned Judge's view on that point. We are not concerned in this case with a denial of the tenant's initial title by virtue of the letting, and I am not considering whether or not that could be a breach of the covenant. In this case the landlord was asserting that the tenant's title, her right to possession of the premises, although initially valid, had been wholly determined by a notice to quit. In my judgment a landlord by merely making that assertion, however wrong he may be, does not commit a breach of covenant. He la entitled to make that assertion, at any rate if he believes it to be true, frequently, emphatically and even rudely. He is entitled also to threaten proceedings in the Courts for possession and damages.
+
+In the present case, however, there was much more than that. The landlord evaded answering the solicitors' letters raising the tenant's defences to his claim. He concentrated his attention on the tenant herself and tried, by a series of" threatening communications, to drive her out of her possession of the premises. The threats were not merely of legal proceedings: there were threats of physical eviction of the tenant and removal of her belongings. Moreover there was an element of direct physical interference by repeatedly knocking on the door and shouting the threats to her. That element of direct physical interference was not trivial but substantial in this case, because it was persisted in and because it has to be seen against the background of the threatening letters.
+
+The implied covenant for quiet enjoyment is not an absolute covenant protecting a tenant against eviction or interference by anybody, but is a qualified covenant protecting the tenant against interference with the tenant's quiet and peaceful possession and enjoyment of the premises by the landlord or persons claiming through or under the landlord. The basis of it la that the landlord, by letting the premises, confers on the tenant the right of possession during the term and impliedly promises not to interfere with the tenant's exercise and use of the right of possession during the term. I think the word "enjoy" used in this connection is a translation of the Latin word "fruor" and refers to the exercise and use of the right and having the full benefit of it, rather than to deriving pleasure from it.
+
+The nature of the implied covenant was explained in Budd-Scott v. Daniell (1902, 2 K.B., 351), in judgments of a Divisional Court. Lord Alverstone, the Chief Justice, said at page 355: 
+"Apart from authority it would certainly seem, on principle and in common sense, that when one person agrees to give possession of his house for a time to another, that ought to carry with it an agreement that he, the landlord, and those claiming through him, will not dispossess the tenant during that time. Therefore, unless there is some special meaning attached to the word 'demise', the good sense of the thing would seem to be that, upon an agreement to let, a covenant or contract was to be implied that the landlord and those claiming under him would not disturb the possession of the tenant. Unless driven to do so by authority, I should hesitate a long time before drawing any distinction in that respect between the words 'agree to let' and 'demise'".
+
+The learned Lord Chief Justice said that, because reference had been made to a previous case of Baynes & Co. v. Lloyd & Sons, in which Lord Justice Kay had said that the implied covenant was only to be implied if the word "demised" was used, and could not be implied if some other word was used.
+
+Also in the same ease of Budd-Scott v. Daniell, at page 361 Mr Justice Channell said: 
+"I must say that, speaking for myself, until I read this judgment of the Court of Appeal in Baynes & Co. v. Lloyd & Sons I always had thought that from the mere fact of letting there was some agreement implied by the landlord that the tenant should not be disturbed, though there might be a question as to what that agreement was. As to this question also, however, I should have thought that it had been now settled that the agreement was only against disturbance by the lessor and those claiming under him, and was limited to the duration of the lessor's interest. If the undertaking is limited in that way, it would seem, as was pointed out by Chief Justice Cockburn in Hall v. City of London Brewery Co., to be nothing more than that which the act of letting into possession for a fixed period would itself in common sense import. If a man lets a house for a year, he most undoubtedly does undertake that he will not himself interfere with the possession of his tenant during that time, and it is only reasonable that his undertaking should be held to extend to those claiming under him".
+
+Reference may also be made to a case called Markham v. Paget (1908 1 Chancery, 697). At page 718 Mr Justice Swinfen Eady read an extract from Platt on Covenants, and the concluding words of the extract are these: "for, as against the party himself, the Court will not consider the word lawful, nor drive the covenantee to an action of trespass, when, by the generally implied covenant in law, the vendor had engaged not to annul his own deed, either by a rightful or an illegal entry". That la surely the same principle emerging there, that the landlord is not allowed to "annul his own deed" by interfering with the possession which he himself has conferred on the tenant.
+
+I would decide on two grounds in favour of the tenant's contention that there was, in this case, a breach of the covenant for quiet enjoyment. First, there was a deliberate and persistent attempt by the landlord to drive the tenant out of her possession of the premises by persecution and intimidation, and intimidation included threats of physical eviction of the tenant and removal of her belongings. In my view that course of conduct by the landlord seriously interfered with the tenant's proper freedom of action in exercising her right of possession, and tended to deprive her of the full benefit of it, and was an invasion of her rights as tenant to remain in possession undisturbed, and so would in itself constitute a breach of covenant, even if there were no direct physical interference with the tenant's possession and enjoyment. No ease of this kind has ever been considered by the Courts before, and I do not think the dicta in the previous cases should be read as excluding a case of this kind where a landlord seeks, by a course of intimidation, to "annul his own deed", to contradict his own demise, by ousting the tenant from the possession which the landlord has conferred upon her.
+
+Secondly, if direct physical interference is a necessary element in the breach of covenant that element can be found in this case to a substantial extent, as I have already stated.
+
+Next there is the question as to the amount of damages for the breach of the covenant. The sum adjudged was £100. There was, however, no allegation or evidence of any actual pecuniary or material damage suffered by the tenant. The only wrongful act alleged was a breach of covenant, that is, a breach of contract. No tort such as trespass or nuisance was alleged. An application at the trial for leave to amend by adding a claim in nuisance was refused. As the claim was only in contract and not in tort, punitive or exemplary damages could not properly be awarded: Perera v. Vandiya (1953 1 W.L.R. 672, C.A.). Accordingly there was no ground for awarding any damages other than nominal damages, which I would assess at 40s.
+
+The reduction of the amount of damages does not affect the injunction, which was properly granted to restrain repetition of the breach of covenant found to have been committed. It is true, as Mr Lester pointed out, that the Particulars of Claim failed to allege, as they should have done, that the landlord threatened and intended to continue or repeat the breach unless restrained by order of the Court. This, however, was a minor defect in the pleading which should not affect the decision. The intention can and should be inferred from the evidence.
+
+There remains to be considered the question raised by the cross-appeal against the learned Judge's refusal to make a declaration. The declaration prayed by the tenant in her Particulars of Claim was: 
+"A declaration that her tenancy of the said premises on the first floor of 5, Elgin Crescent aforesaid la protected by virtue of the Rent Acts, 1920 to 1957".
+
+The learned Judge decided that he had no jurisdiction to grant this declaration. I think that the ground of his decision was that the declaration could not reasonably be regarded as ancillary to the claim for damages: De Vries v. Smallridge (1928, 1 K.B., 482, C.A.) and The County Court Practice, 1962, page 62. In my view the decision of the learned Judge should be upheld.
+
+It has been contended for the tenant in the cross-appeal that the claim or the judgment for damages for breach of covenant for quiet enjoyment necessarily involves the existence of such a covenant which, in turn, necessarily involves the
+
+existence of a tenancy, and a declaration of the existence of a tenancy would merely spell out and record something already implicit in the claim or judgment for damages, and accordingly the prayer for the declaration should be regarded as being for ancillary relief and so within the County Court's jurisdiction. The difficulty, however, is that the declaration asked for is not merely a declaration of the existence of a tenancy but a declaration that her tenancy is protected by the Rent Acts. That is a further step, and a major step, and not something ancillary.
+
+I would allow the appeal, but only to the extent of reducing the amount of damages from £100 to £2.
+
+I would dismiss the cross-appeal.
+
+LORD JUSTICE ORMEROD: I agree with the Judgment which has been delivered by Lord Justice Pearson and I have come to the same conclusion for the same reasons. There la nothing I wish to add.
+
+LORD JUSTICE DONOVAN: Save as to damages I agree that the Appeal should be dismissed.
+
+I do not think that the Court here is making any alarming extension to the scope of an implied covenant for quiet enjoyment. We are not saying it is a covenant that the tenant shall enjoy peace throughout his tenancy, or be immune from even a temporary disturbance of his quiet. We are here dealing with a special - and, I hope, unusual - case. It is a case of a somewhat bullying landlord and an elderly and apparently timid woman who is his tenant. From November, 1959, to March, 1962, a period of some 17 months, he pursued a set campaign to get rid of her by means of abusive and defamatory letters, coupled with calls at her rooms, where he knocked on the outside door demanding to have the rooms and threatening to put the Respondent's furniture in the street. When eventually the Respondent took advice and her solicitors wrote to the Appellant he preferred to ignore the solicitors and to reply to this lady, repeating the threats and abuse. The effect of this campaign must have been, among other things, to make the lady afraid that if she left her accommodation for sufficient time she might return to find that the Appellant had dispossessed her and put her belongings in the street* In this way her peaceable enjoyment of the occupation of the rooms was certainly diminished.
+
+I have no difficulty in concluding that the Appellant's conduct was direct physical interference with the enjoyment of the premises let, and more than the creation of a mere personal annoyance. If that view be justified then, on the authorities, there has been a breach of the covenant for quiet enjoyment.
+
+It was argued for the Appellant that there was no physical act done here; but short of a battery how more physical can you get than by knocking on the tenant's door and shouting threats through it?
+
+It may be that modern conditions of life may call for a review of the requirement that some physical act is an essential element in a breach of the covenant for quiet enjoyment! but in the present case I think the physical element is present.
+
+On the question of damages, I agree that nominal damages only should have been awarded, and that these should be the sum of £2.
+
+As to the cross-appeal, the general ancillary jurisdiction in the County Court is conferred by section 74 of the County Courts Act of 1959, which so far as here material reads thus: "Every county court, as regards any cause of action for the time being within its jurisdiction, shall, in any proceedings before it - (a) grant such relief, redress or remedy or combination of remedies, either absolute or conditional....as ought to be granted or given in the like case by the High Court and in as full and ample a manner".
+
+
+ 
+
+This Court, in De Vries v. Smallridge (1928, 1 K.B. 4) held that the jurisdiction of the County Court to make declarations, being only an ancillary jurisdiction, was not available unless the claim or demand was one also within the jurisdiction of the County Court. That condition la satisfied here.
+
+But in Humber Conservancy Board v. Federated Coal and Shipping Co. (1948, 1 K.B., 492), Lord Justice Scrutton said this at page 496: "I only wish to say this further. For some odd reason the plaintiffs began by claiming a declaration, and followed it by a claim for £3.10s. We have said several times in this Court that much too much use is being made of declarations in the county court. I need only refer to two recent cases, Smith v. Smith and, in the Court of Appeal, Rex v. Cheshire County Court Judge and United Society of Boilermakers, where some very relevant remarks of Lord Sterndale will be found. Declarations are only to be asked as ancillary to money claims. In what sense the declaration asked for in this case is ancillary to a claim for £3.10s. I have been quite unable to understand. It is asked that the learned judge should declare the facts or some of the facts which it is necessary to establish in order to make a claim for £3.10s. But one might as well put in a claim for a declaration that he should give judgment for £50 or £100. People ask for declarations without thinking what they want declarations for". I do not say that that last observation applies here. But how is the declaration ancillary to the claim for damages which here succeeded?
+
+It is argued that in order to establish the money claim a tenancy had to be established of unfurnished premises, and that therefore it would be right to declare that that fact had been established. But if this were so why should not a declaration be asked for of every fact which had to be established as the foundation for a money claim? This, however, would not be the granting of ancillary relief. Ancillary means subservient to; and here it does not serve or assist this particular claim for damages to declare that the lady's tenancy
+
+is protected by virtue of the Rent Acts. A different wording is now proposed, namely, that her tenancy is an unfurnished tenancy and as such entitled to protection. But, as I understand the matter, this will still leave open the question whether it remains a contractual or has become a statutory tenancy. And whichever it is does not affect the claim for damages. That the lady was a tenant of one sort or another was not disputed.
+
+The Respondent's real reason for seeking a declaration is to avoid further litigation on the question whether the tenancy is furnished or not since. it might be said that this was not the ratio decidendi of the present decision. I think that the Appellant would be ill-advised if he sought to re-open this question after the length of time it occupied the County Court* Be that as it may? this consideration does not cure the fundamental defect of a want of jurisdiction*
+
+I think, therefore, that the Respondent's Appeal fails.
+
+(Appeal  allowed only  to extent damages reduced from £100 to £2; Croat-appeal dismissed; no order as to costs on appeal and cross-appeal; Legal Aid taxation of Respondent's costs in the appeal).
+
+
+]
+[
+ BAILII reserves the intellectual property rights
+pertaining to the BAILII website's graphic and navigation design.  The
+intellectual property rights in the search tools used by BAILII belong to
+AustLII, whose rights are reserved.
+
+ 
+ The copyright in the text of legislation and
+judgments displayed on BAILII's website may belong to courts, other government
+bodies, judges, and/or to commercial publishers.  BAILII cannot authorize any
+copying of such material, and users of BAILII's website are referred to the
+copyright policy of the relevant copyright owners.  BAILII endeavours to
+indicate the existence of third party copyright on the pages of databases and
+individual judgments, but users remain responsible for checking whether their
+use of the materials is authorized.
+
+ 
+ In the case of United Kingdom judgments
+and legislation, BAILII's understanding is that Crown copyright
+protected material (other than the Royal Arms and departmental or agency
+logos) may be reproduced free of charge in any format or medium provided
+it is reproduced accurately and not used in a misleading context, and
+provided that where any of the Crown copyright items on this site are
+being republished or copied to others, the source of the material is
+identified and the copyright status acknowledged.  The permission to
+reproduce Crown protected material does not cover copyright held by
+third parties such as commercial publishers. The copyright policy of
+some other relevant third parties may be accessed using the links here
+FAQ: Does it infringe copyright for
+a user to copy materials and to display them on the user's own
+website?.  
+ Copyright in the hypertext markup of judgments
+and all other presentational / value added aspects of judgments belongs to
+BAILII and the authors of the software tools used, whose rights are reserved.
+
+ 
+ Subject to the rights of third parties (referred
+to in paragraph 2 above) and to the prohibited uses set out in paragraph 6
+below, users may copy, print and distribute legal materials published on
+BAILII's website free of charge and without any other authorization from BAILII,
+provided that BAILII is identified as the source of the document.
+ 
+Prohibited Uses
+
+(a) incorporating search results or HTML versions of 
+judgments into another website or into the output of a computer program 
+not provided by BAILII itself (including apps or other programs used on 
+a hand-held device or tablet computer);
+(b) storing search results or HTML versions of 
+judgments
+ (c) external indexing of documents by web robots or 
+spiders when such use is not authorized by the instructions in the 
+robots exclusion file at https://www.bailii.org/robots.txt
+  or in a META tag in the HTML code of a published document, in 
+compliance with the Robots Exclusion 
+Protocol;
+(d) abusive use of the BAILII website's resources and 
+services via automated mechanisms or otherwise, in particular for bulk 
+downloading of documents.
+BAILII reserves the right to block, at
+its discretion and without prior notice, any user from accessing its 
+website if it believes that the user has misused the website or has 
+used it for unlawful purposes. BAILII monitors the use of automated 
+mechanisms to access its website, and its policy is to block entire 
+domains which use such mechanisms without authorisation, until a proper 
+explanation is provided.
+
+ 
+ BAILII has no objection to links from
+other websites to material on BAILII's website, and encourages this
+practice.  Further information is available here. 
+ 
+]
+[]
+[]
+[]
+[]
+[
+
+
+
+
+ 
+
+
+
+www.bailii.org
+ 
+
+
+ 
+ 
+British And Irish Legal Information InstituteInstitute of Advanced Legal Studies
+
+
+ 
+ 
+17 Russell Square
+
+
+ 
+ 
+London WC1B 5DR
+
+
+ 
+ 
+ 
+
+
+
+ 
+
+Why does BAILII appeal for funds?
+
+Thank you for considering making a donation to BAILII. All donated funds are used by BAILII to maintain and extend its free-to-access databases of legal information for the benefit of all users. 
+
+Donations enable BAILII to meet the costs of maintaining its website. These costs amount to approximately £180,000 per annum (excluding replacement of computer hardware and other items which are not incurred annually).
+
+Those who support BAILII's aims or make regular use of BAILII are encouraged to contribute.
+
+Some organisations and individuals support BAILII on a regular basis but many donations made to BAILII are one-off contributions. BAILII's income on the basis of existing offers of donations is not sufficient to meet BAILII's annual expenditure or fund its ambitious development plans; BAILII therefore continues to need further support.
+
+BAILII is hosted and supported by the Institute of Advanced Legal Studies, a legal research institute which is part of the School of Advanced Study at the University of London.  As an extension of this relationship, the Trustees of BAILII have asked the University of London's Development Office to manage and administer BAILII's fundraising activities.
+
+You can donate to BAILII via BACS, online, or by cheque. Some of these routes incur fees; please see below for the various options, and to choose the method which is most appropriate for you.
+
+Follow this link for more detailed information regarding BAILII's donors. If you wish to discuss becoming a donor  particularly if you are interested in making a term commitment to BAILII (for example, over a 3-year period), or if you would like to donate £5,000 or more  please e-mail our Fundraising Officer, Yvette Rathbone, yvette.rathbone@london.ac.uk.
+
+Methods of donating
+
+•    BACS:
+  donations for BAILII may be made directly to the bank account of the
+  University of London's Development Office. All funds received for
+  BAILII are transferred to BAILII in their entirety, and no fees are
+  deducted.  If you would like to use this method, please e-mail
+  Yvette Rathbone to discuss
+your donation and receive the relevant bank details. If you are a UK taxpayer
+and would like to enhance the value of your donation via Gift Aid, we will be
+pleased to send you the relevant form.
+
+The University of London is an exempt charity – HMRC reference X422.
+
+
+•    Cheque: if you prefer to donate by cheque, please make it payable to 'University of London', writing 'BAILII' on the reverse or including a note to direct the funds to BAILII, and send it to: 
+
+Yvette Rathbone (BAILII)Development OfficeUniversity of LondonSenate HouseMalet StreetLondonWC1E 7HU
+
+•    Online:
+•    Charities Aid Foundation  (CAF): CAF charges a fee of 5% on donations as well as on any Gift Aid reclaimed. We suggest, therefore, that donors only use CAF if they themselves already have a CAF account. 
+
+•    Virgin Money Giving: Virgin Money Giving charges a 2% fee on donations, but does not deduct fees from any Gift Aid reclaimed. Virgin Money offers donors the option to cover this fee themselves, so that BAILII can benefit from the full value of your donation.
+
+If you would prefer to remain anonymous, please e-mail development@london.ac.uk
+ 
+The Trustees of BAILII are very grateful for your support and encouragement of their commitment to providing free access to the law for all.
+
+
+Sir Ross CranstonChair, BAILII Board of Trustees
+
+
+British And Irish Legal Information InstituteCompany No 4131252. Registered Office: 10 Queen Street Place, London EC4R 1BE. Registered Charity 1084803.
+Trustees:
+Sir Ross Cranston (chair) Professor Diamond AshiagborGuy Beringer QC (Hon)Dr Philip ChungAndrea CoomberDame Maura McGowan DBEDr Nóra Ní LoideáinDr Patrick O'Callaghan Laurence Rabinowitz QCRachel Wood
+
+Chief Executive Officer:	Jules Winterton	E-mail: jules.winterton@sas.ac.uk
+Executive Director: 	Joe Ury
+
+
+
+]
